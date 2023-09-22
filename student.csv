@@ -1,0 +1,11 @@
+"StudentID";"FirstName";"LastName";"ContactPerson";"ContactNo";"EmailAddress";"DateOfBirth";"ClassroomID"
+1;"John";"Doe";"Jane Doe";"1234567890";"johndoe@example.com";"2000-01-15 00:00:00.000000";1
+2;"Alice";"Smith";"Bob Smith";"9876543210";"alice@example.com";"1999-05-20 00:00:00.000000";3
+3;"David";"Brown";"Emily Brown";"5555555555";"david@example.com";"2001-08-10 00:00:00.000000";5
+4;"Sophia";"Johnson";"Michael Johnson";"7777777777";"sophia@example.com";"2003-03-15 00:00:00.000000";2
+5;"Ethan";"Lee";"Olivia Lee";"1231231234";"ethan@example.com";"2002-11-28 00:00:00.000000";4
+6;"Ava";"Wilson";"James Wilson";"9999999999";"ava@example.com";"2000-12-05 00:00:00.000000";1
+7;"Joahn";"Doe";"Jane Doe";"1234567890";"johndsoe@example.com";"1995-09-19 00:00:00.000000";5
+8;"asd";"Does";"asdad";"1234567890";"sda@email.com";"1995-09-19 00:00:00.000000";3
+9;"Anakin";"Skywalker";"Palpatine";"1234562890";"vader@darkside.co";"1995-01-02 00:00:00.000000";2
+10;"VIBHUSHA";"KANNANGARA";"VIBHUSHA KANNANGARA";"1234225628";"vibhoakannangara@gmail.com";"1995-01-02 00:00:00.000000";3
