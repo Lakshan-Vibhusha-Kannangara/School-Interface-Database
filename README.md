@@ -1,6 +1,7 @@
 # School Information System-Database
 
 
+
 <img width="1039" alt="Screenshot 2023-09-22 at 11 54 28" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/a6ab681a-f771-49fd-b1ff-8b50826bb0a6">
 
 
@@ -20,13 +21,13 @@ https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets
 
 
 # ECS link For Angular Front-End-
-# ECS link For Dotnet Core Back-End-
-# AWS RDB link -
-# Docker File Link for Front-End -
-# Docker File Link for Back-End -
-# Front End Repo Link-
-# Backend Repo Link-
-# Database Repo Link-
+# ECS link For Dotnet Core Back-End-   
+# AWS RDB link -database-1.cl2nped3ffqw.ap-south-1.rds.amazonaws.com  ?? will change the username and password acess and share later
+# Docker File Link for Front-End - 
+# Docker File Link for Back-End API- https://hub.docker.com/repository/docker/vibhushak/dotnet/general
+# Front End Repo Link-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End.git
+# Backend API Repo Link-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-RegApi.git 
+# Database Repo Link-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Database.git 
 # 
 # Introduction
 
