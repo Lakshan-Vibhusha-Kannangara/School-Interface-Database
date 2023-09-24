@@ -1,21 +1,41 @@
-# School Information System-Database
+# School Information System-Web Api
 
 
 
-<img width="1039" alt="Screenshot 2023-09-22 at 11 54 28" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/a6ab681a-f771-49fd-b1ff-8b50826bb0a6">
-
-
-
-
-
-
-
-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/97df770e-cc20-4663-bcba-deb77a96e886.mp4
+<img width="200" alt="Screenshot 2023-09-22 at 11 54 28" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/a6ab681a-f771-49fd-b1ff-8b50826bb0a6">
 
 
 
 
-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/05f09269-0314-40fc-9fc9-9525747c5801.mp4
+
+
+
+https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/138dbaab-0ae3-4b56-8dfa-6813a98196ec
+
+
+
+
+
+
+
+
+
+https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/531651e4-77e6-42e9-81e3-1eab1ad8a79c
+
+
+
+# Database Design
+# Database is in accordance to First, Second and Third Normal Forms
+# Used an Inner Join to get data from Table relations >>>
+  from tc in _studentDbContext.AllocateClassroom
+  join ts in _studentDbContext.SubjectTeacher on tc.TeacherID equals ts.TeacherID
+  where tc.ClassroomID == student.ClassroomID
+
+
+<img width="1550" alt="Screenshot 2023-09-25 at 00 53 27" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/36076418-de4a-4f62-b03d-b413e28e12c4">
+
+
+
 
 
 
@@ -24,7 +44,7 @@ https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets
 # ECS link For Dotnet Core Back-End-   
 # AWS RDB link -database-1.cl2nped3ffqw.ap-south-1.rds.amazonaws.com  ?? will change the username and password acess and share later
 # Docker File Link for Front-End - 
-# Docker File Link for Back-End API- https://hub.docker.com/repository/docker/vibhushak/dotnet/general
+# Docker File Link for Back-End API- https://hub.docker.com/repository/docker/vibhushak/school-web-api/general
 # Front End Repo Link-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End.git
 # Backend API Repo Link-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-RegApi.git 
 # Database Repo Link-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Database.git 
