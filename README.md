@@ -1,6 +1,6 @@
 # School Information System-Database
 
-
+# Extra Features- JWT based Authentication (Cookie Based)
 
 <img width="300" alt="Screenshot 2023-09-22 at 11 54 28" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/aad36698-82a9-4c02-8ff1-373a418f6170">
 
