@@ -1,26 +1,31 @@
-# School Information System-Web Api
+# School Information System-Database
 
 
 
-<img width="200" alt="Screenshot 2023-09-22 at 11 54 28" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/a6ab681a-f771-49fd-b1ff-8b50826bb0a6">
-
-
-
-
-
-
-
-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/138dbaab-0ae3-4b56-8dfa-6813a98196ec
+<img width="300" alt="Screenshot 2023-09-22 at 11 54 28" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/aad36698-82a9-4c02-8ff1-373a418f6170">
 
 
 
 
 
 
+https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/512a2346-1b65-4154-af39-f866c21f4fa8
 
 
 
-https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/531651e4-77e6-42e9-81e3-1eab1ad8a79c
+
+
+
+https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/31c0af89-612c-43ab-b3c7-ae11315a3be5
+
+
+
+
+
+
+
+
+
 
 
 
@@ -30,11 +35,15 @@ https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets
   from tc in _studentDbContext.AllocateClassroom
   join ts in _studentDbContext.SubjectTeacher on tc.TeacherID equals ts.TeacherID
   where tc.ClassroomID == student.ClassroomID
+  
+
+<img width="1106" alt="Screenshot 2023-09-25 at 00 22 03" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/b24c6ae2-cdf9-454b-9b05-3b04f28018ca">
 
 
-<img width="1550" alt="Screenshot 2023-09-25 at 00 53 27" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/36076418-de4a-4f62-b03d-b413e28e12c4">
 
 
+
+<img width="533" alt="Screenshot 2023-09-25 at 09 20 27" src="https://github.com/Lakshan-Vibhusha-Kannangara/School-Interface-Front-End/assets/77208138/6a37fefb-accd-4257-94a1-fa4f7e352907">
 
 
 
